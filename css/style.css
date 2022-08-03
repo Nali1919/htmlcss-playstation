@@ -6,10 +6,21 @@
     width: 80px;
 }
 
+.ac-takes-img {
+    max-width: 250px;
+}
+
 .section-Jumbo {
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
+    color: white;
+}
+
+.section-takes {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
     color: white;
 }
 
