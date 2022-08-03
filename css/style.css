@@ -30,6 +30,10 @@
     color: white;
 }
 
+.section-plus {
+    background-color: hsl(20deg 2% 74%);
+}
+
 .ac-button {
     background-color: orange;
     border-radius: 15px;
@@ -41,4 +45,12 @@
     border: 1x solid blue;
     border-radius: 15px;
     color: white;
+}
+
+.white {
+    background-color: white;
+}
+
+.blue {
+    color: blue;
 }
