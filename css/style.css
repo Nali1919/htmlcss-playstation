@@ -22,6 +22,12 @@
     background-position: center;
     background-size: cover;
     color: white;
+
+}
+
+.section-new {
+    background-color: hsl(0deg 0% 12%);
+    color: white;
 }
 
 .ac-button {
