@@ -2,8 +2,16 @@
     background-color: black;
 }
 
+.ac-none {
+    list-style-type: none;
+}
+
 .ac-img {
     width: 80px;
+}
+
+.search {
+    width: 25px;
 }
 
 .ac-padding-img {
@@ -20,6 +28,10 @@
     background-position: center;
     color: white;
     margin-top: 100px;
+}
+
+.returnal {
+    width: 200px;
 }
 
 .section-takes {
@@ -64,6 +76,10 @@ footer {
     border: 1x solid blue;
     border-radius: 15px;
     color: white;
+}
+
+.dark-button {
+    background-color: hsl(0deg 0% 21%);
 }
 
 .white {
