@@ -6,6 +6,10 @@
     width: 80px;
 }
 
+.ac-padding-img {
+    padding-top: 50px;
+}
+
 .ac-takes-img {
     max-width: 250px;
 }
@@ -15,6 +19,7 @@
     background-size: cover;
     background-position: center;
     color: white;
+    margin-top: 100px;
 }
 
 .section-takes {
@@ -37,6 +42,15 @@
 .section-now {
     background-color: hsl(230deg 46% 16%);
     color: white;
+}
+
+footer {
+    background-color: hsl(214deg 100% 31%);
+    color: white;
+}
+
+.footer-world {
+    width: 30px;
 }
 
 .ac-button {
