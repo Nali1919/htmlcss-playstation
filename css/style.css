@@ -27,15 +27,26 @@ body {
     padding-top: 50px;
 }
 
-.hover-scale {
-    transition: 1s;
-
-}
-
 .hover-scale:hover {
-    transform: scale(0.7);
+    position: relative;
+    bottom: 15px;
 }
 
+
+.new-exit:hover {
+    border: 2px solid blue;
+
+}
+
+#input-play .col-md a {
+    text-decoration: none;
+    color: #666;
+}
+
+#input-play .col-md a:hover {
+    border-bottom: 1px solid blue;
+    opacity: 0.6;
+}
 
 .ac-takes-img {
     max-width: 250px;
