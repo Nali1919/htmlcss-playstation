@@ -7,6 +7,10 @@ body {
     background-color: black;
 }
 
+.gx-5 {
+    column-gap: 10px;
+}
+
 .ac-none {
     list-style-type: none;
 }
@@ -122,4 +126,8 @@ footer {
 
 .black {
     color: black;
+}
+
+.dropdown-menu.show {
+    display: flex;
 }
